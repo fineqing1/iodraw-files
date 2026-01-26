@@ -232,6 +232,57 @@
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-122" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="760" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-126" value="玩家攻击" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-128" target="mPJ5nzWcs0J85uNmx9Uw-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-128" value="敌人扣血" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-132" target="mPJ5nzWcs0J85uNmx9Uw-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-130" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mPJ5nzWcs0J85uNmx9Uw-129">
+          <mxGeometry x="-0.0167" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-132" target="mPJ5nzWcs0J85uNmx9Uw-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-132" value="敌人血量==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="760" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-133" value="胜利&lt;div&gt;玩家胜局计数+1&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="1000" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-137" target="mPJ5nzWcs0J85uNmx9Uw-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-135" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mPJ5nzWcs0J85uNmx9Uw-134">
+          <mxGeometry x="-0.2167" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-137" target="mPJ5nzWcs0J85uNmx9Uw-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-137" value="玩家血量&amp;gt;0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="880" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-138" value="平局" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="880" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-139" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="760" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
