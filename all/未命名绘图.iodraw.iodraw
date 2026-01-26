@@ -36,8 +36,8 @@
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-12" value="胜利 移动到下一场景" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="400" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-16" value="开始/结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="50" width="160" height="80" as="geometry" />
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-16" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="280" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
