@@ -109,6 +109,9 @@
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-37" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1040" y="280" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-39" target="mPJ5nzWcs0J85uNmx9Uw-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-39" value="&lt;div&gt;敌人死亡事件&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="520" width="160" height="80" as="geometry" />
         </mxCell>
@@ -169,7 +172,7 @@
           <mxGeometry x="640" y="640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-57" value="判断" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="50" width="160" height="80" as="geometry" />
+          <mxGeometry x="40" y="640" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
