@@ -232,6 +232,9 @@
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-97" value="玩家血量==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="1000" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-101" value="平局&lt;div&gt;下一回合&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="1000" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
