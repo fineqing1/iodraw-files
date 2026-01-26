@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="857" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-7" value="玩家移动" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="160" width="160" height="80" as="geometry" />
+          <mxGeometry x="40" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-8" target="mPJ5nzWcs0J85uNmx9Uw-12">
           <mxGeometry relative="1" as="geometry" />
@@ -33,14 +33,19 @@
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-8" target="mPJ5nzWcs0J85uNmx9Uw-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-18" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mPJ5nzWcs0J85uNmx9Uw-17">
+          <mxGeometry x="-0.2753" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-8" value="玩家位于传送门格子" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="280" width="160" height="80" as="geometry" />
+          <mxGeometry x="40" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-12" value="胜利 移动到下一场景" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="400" width="160" height="80" as="geometry" />
+          <mxGeometry x="40" y="400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-16" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="280" width="160" height="80" as="geometry" />
+          <mxGeometry x="240" y="280" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
