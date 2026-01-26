@@ -176,7 +176,7 @@
             <mxPoint x="120" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-70" value="&lt;div&gt;进入战斗&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-70" value="&lt;div&gt;进入Boss战斗&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="880" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-76" value="胜利" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
