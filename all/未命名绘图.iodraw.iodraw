@@ -237,13 +237,13 @@
             <mxPoint x="520" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-126" value="玩家攻击" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-126" value="敌人攻击" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-128" target="mPJ5nzWcs0J85uNmx9Uw-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-128" value="敌人扣血" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-128" value="玩家扣血" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-132" target="mPJ5nzWcs0J85uNmx9Uw-137">
