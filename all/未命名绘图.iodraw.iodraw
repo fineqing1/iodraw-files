@@ -193,10 +193,10 @@
           <mxGeometry x="40" y="640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-109" value="敌人血量==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="820" width="160" height="80" as="geometry" />
+          <mxGeometry x="40" y="880" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-112" value="玩家血量&amp;gt;0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="760" width="160" height="80" as="geometry" />
+          <mxGeometry x="280" y="800" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
