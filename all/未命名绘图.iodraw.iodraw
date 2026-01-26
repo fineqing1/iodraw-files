@@ -215,14 +215,14 @@
             <mxPoint x="520" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-89" value="玩家扣血" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-89" value="玩家被攻击扣血" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="880" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-90" value="胜利" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="1240" width="160" height="80" as="geometry" />
+          <mxGeometry x="440" y="1120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-97" value="敌人血量==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="1120" width="160" height="80" as="geometry" />
+          <mxGeometry x="440" y="1000" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
