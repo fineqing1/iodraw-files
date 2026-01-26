@@ -199,7 +199,7 @@
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-79" target="mPJ5nzWcs0J85uNmx9Uw-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-87" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mPJ5nzWcs0J85uNmx9Uw-84">
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-87" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mPJ5nzWcs0J85uNmx9Uw-84">
           <mxGeometry x="0.0167" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -209,6 +209,45 @@
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-83" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="1120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-89" value="&lt;div&gt;进入战斗&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="890" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-90" value="胜利" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="1250" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-92" target="mPJ5nzWcs0J85uNmx9Uw-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-92" value="玩家攻击&lt;div&gt;敌人扣血&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="1010" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-97" target="mPJ5nzWcs0J85uNmx9Uw-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-94" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mPJ5nzWcs0J85uNmx9Uw-93">
+          <mxGeometry x="-0.1167" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-97" target="mPJ5nzWcs0J85uNmx9Uw-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-96" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mPJ5nzWcs0J85uNmx9Uw-95">
+          <mxGeometry x="0.0167" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-97" value="敌人血量==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="1130" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-98" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="1130" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
