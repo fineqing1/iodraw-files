@@ -100,7 +100,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-35" value="玩家位于水格子" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-35" value="玩家位于爆炸格子" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-36" value="死亡 游戏重新开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
