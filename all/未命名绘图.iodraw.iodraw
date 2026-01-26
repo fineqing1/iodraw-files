@@ -171,36 +171,19 @@
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-55" value="平局&lt;div&gt;下一回合&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="640" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-70" target="mPJ5nzWcs0J85uNmx9Uw-75">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="1000" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-70" value="&lt;div&gt;进入战斗&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="880" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-75" target="mPJ5nzWcs0J85uNmx9Uw-76">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-72" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mPJ5nzWcs0J85uNmx9Uw-71">
-          <mxGeometry x="-0.1345" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-75" target="mPJ5nzWcs0J85uNmx9Uw-77">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-74" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mPJ5nzWcs0J85uNmx9Uw-73">
-          <mxGeometry x="-0.2753" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-75" value="玩家血量&amp;gt;0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="1000" width="160" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-76" value="胜利" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="1120" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-77" value="失败&lt;div&gt;角色死亡&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="1000" width="160" height="80" as="geometry" />
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-78" value="过程" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="50" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
