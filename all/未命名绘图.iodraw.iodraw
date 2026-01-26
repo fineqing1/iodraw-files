@@ -203,6 +203,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-109" target="mPJ5nzWcs0J85uNmx9Uw-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-109" value="敌人血量==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="760" width="160" height="80" as="geometry" />
         </mxCell>
@@ -222,6 +225,9 @@
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-121" value="死亡 游戏重新开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="880" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-122" value="死亡 游戏重新开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="760" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
