@@ -23,7 +23,7 @@
           <mxGeometry x="150" y="160" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-8" value="玩家位于传送门格子" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="260" width="140" height="80" as="geometry" />
+          <mxGeometry x="150" y="250" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
