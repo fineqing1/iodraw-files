@@ -78,6 +78,37 @@
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-28" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="280" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-30" target="mPJ5nzWcs0J85uNmx9Uw-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-30" value="炸弹爆炸" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-35" target="mPJ5nzWcs0J85uNmx9Uw-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-32" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mPJ5nzWcs0J85uNmx9Uw-31">
+          <mxGeometry x="-0.1345" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-35" target="mPJ5nzWcs0J85uNmx9Uw-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-34" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mPJ5nzWcs0J85uNmx9Uw-33">
+          <mxGeometry x="-0.2753" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-35" value="玩家位于水格子" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-36" value="死亡 游戏重新开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-37" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
