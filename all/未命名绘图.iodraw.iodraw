@@ -215,39 +215,14 @@
             <mxPoint x="520" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-89" value="玩家血量==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-89" value="玩家扣血" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="880" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-90" value="胜利" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="1240" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-92" target="mPJ5nzWcs0J85uNmx9Uw-97">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-92" value="玩家攻击&lt;div&gt;敌人扣血&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="1000" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-97" target="mPJ5nzWcs0J85uNmx9Uw-90">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-94" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mPJ5nzWcs0J85uNmx9Uw-93">
-          <mxGeometry x="-0.1167" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mPJ5nzWcs0J85uNmx9Uw-97" target="mPJ5nzWcs0J85uNmx9Uw-98">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-96" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mPJ5nzWcs0J85uNmx9Uw-95">
-          <mxGeometry x="0.0167" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mPJ5nzWcs0J85uNmx9Uw-97" value="敌人血量==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="1120" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJ5nzWcs0J85uNmx9Uw-98" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="1120" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
