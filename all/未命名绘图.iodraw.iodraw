@@ -352,14 +352,6 @@
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-13" value="玩家受伤" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1640" y="160" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h7KaTAYhTF_OkEkZMfuS-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h7KaTAYhTF_OkEkZMfuS-14" target="h7KaTAYhTF_OkEkZMfuS-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h7KaTAYhTF_OkEkZMfuS-23" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h7KaTAYhTF_OkEkZMfuS-20">
-          <mxGeometry x="-0.1579" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h7KaTAYhTF_OkEkZMfuS-14" target="h7KaTAYhTF_OkEkZMfuS-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -372,7 +364,7 @@
           <mxGeometry x="1640" y="400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-16" value="失败&lt;div&gt;重新加载当前关卡&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1640" y="520" width="160" height="80" as="geometry" />
+          <mxGeometry x="1640" y="640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h7KaTAYhTF_OkEkZMfuS-17" target="h7KaTAYhTF_OkEkZMfuS-14">
           <mxGeometry relative="1" as="geometry" />
@@ -380,7 +372,7 @@
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-17" value="玩家HP-=Damage" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1640" y="280" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h7KaTAYhTF_OkEkZMfuS-21" value="玩家受伤" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h7KaTAYhTF_OkEkZMfuS-21" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1840" y="400" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
