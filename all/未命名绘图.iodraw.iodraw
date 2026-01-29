@@ -318,7 +318,7 @@
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h7KaTAYhTF_OkEkZMfuS-4" target="h7KaTAYhTF_OkEkZMfuS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h7KaTAYhTF_OkEkZMfuS-4" value="敌人死亡时间" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h7KaTAYhTF_OkEkZMfuS-4" value="敌人死亡事件" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1240" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h7KaTAYhTF_OkEkZMfuS-5" target="h7KaTAYhTF_OkEkZMfuS-7">
@@ -326,6 +326,14 @@
         </mxCell>
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-9" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h7KaTAYhTF_OkEkZMfuS-8">
           <mxGeometry x="-0.224" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h7KaTAYhTF_OkEkZMfuS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h7KaTAYhTF_OkEkZMfuS-5" target="h7KaTAYhTF_OkEkZMfuS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7KaTAYhTF_OkEkZMfuS-12" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h7KaTAYhTF_OkEkZMfuS-11">
+          <mxGeometry x="-0.1151" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
