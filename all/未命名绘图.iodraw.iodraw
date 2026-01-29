@@ -363,9 +363,9 @@
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h7KaTAYhTF_OkEkZMfuS-14" target="h7KaTAYhTF_OkEkZMfuS-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h7KaTAYhTF_OkEkZMfuS-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h7KaTAYhTF_OkEkZMfuS-22">
+        <mxCell id="h7KaTAYhTF_OkEkZMfuS-24" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h7KaTAYhTF_OkEkZMfuS-22">
           <mxGeometry x="-0.4008" y="6" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-14" value="玩家HP==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
