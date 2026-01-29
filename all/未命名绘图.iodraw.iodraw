@@ -346,7 +346,7 @@
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-10" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1440" y="280" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h7KaTAYhTF_OkEkZMfuS-13" value="玩家受伤&lt;div&gt;玩家HP-=Damage&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h7KaTAYhTF_OkEkZMfuS-13" value="玩家受伤（Damage）&lt;div&gt;玩家HP-=Damage&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1640" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-14" value="玩家HP==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
