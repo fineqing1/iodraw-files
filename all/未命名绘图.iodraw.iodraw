@@ -315,6 +315,12 @@
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-3" value="数据变更" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1840" y="40" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="h7KaTAYhTF_OkEkZMfuS-4" value="开始/结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1240" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h7KaTAYhTF_OkEkZMfuS-5" value="判断" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1240" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
