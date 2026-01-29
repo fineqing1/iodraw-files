@@ -337,7 +337,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h7KaTAYhTF_OkEkZMfuS-5" value="存活敌人==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h7KaTAYhTF_OkEkZMfuS-5" value="存活敌人数量==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1240" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-7" value="胜利&lt;div&gt;加载下一关&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
