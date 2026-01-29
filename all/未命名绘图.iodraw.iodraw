@@ -352,10 +352,13 @@
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-13" value="玩家受伤" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1640" y="160" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="h7KaTAYhTF_OkEkZMfuS-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h7KaTAYhTF_OkEkZMfuS-14" target="h7KaTAYhTF_OkEkZMfuS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-14" value="玩家HP==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1640" y="400" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h7KaTAYhTF_OkEkZMfuS-16" value="开始/结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h7KaTAYhTF_OkEkZMfuS-16" value="失败&lt;div&gt;重新加载当前关卡&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1640" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h7KaTAYhTF_OkEkZMfuS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h7KaTAYhTF_OkEkZMfuS-17" target="h7KaTAYhTF_OkEkZMfuS-14">
