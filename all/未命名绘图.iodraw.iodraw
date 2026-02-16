@@ -408,8 +408,8 @@
         <mxCell id="AnVIsK84eVW_1UlCv3e7-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AnVIsK84eVW_1UlCv3e7-1" target="AnVIsK84eVW_1UlCv3e7-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AnVIsK84eVW_1UlCv3e7-1" value="玩家受伤" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1650" y="170" width="160" height="80" as="geometry" />
+        <mxCell id="AnVIsK84eVW_1UlCv3e7-1" value="毛线球消除" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2040" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AnVIsK84eVW_1UlCv3e7-6" target="AnVIsK84eVW_1UlCv3e7-10">
           <mxGeometry relative="1" as="geometry" />
@@ -428,19 +428,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-6" value="玩家HP==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1650" y="410" width="160" height="80" as="geometry" />
+          <mxGeometry x="2040" y="400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-7" value="胜利&lt;br&gt;&lt;div&gt;加载下一关&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1650" y="650" width="160" height="80" as="geometry" />
+          <mxGeometry x="2040" y="640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AnVIsK84eVW_1UlCv3e7-9" target="AnVIsK84eVW_1UlCv3e7-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-9" value="玩家HP-=Damage" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1650" y="290" width="160" height="80" as="geometry" />
+          <mxGeometry x="2040" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-10" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1850" y="410" width="160" height="80" as="geometry" />
+          <mxGeometry x="2240" y="400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AnVIsK84eVW_1UlCv3e7-15" target="AnVIsK84eVW_1UlCv3e7-7">
           <mxGeometry relative="1" as="geometry" />
@@ -459,10 +459,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-15" value="存活敌人数量==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1650" y="530" width="160" height="80" as="geometry" />
+          <mxGeometry x="2040" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-16" value="失败&lt;div&gt;重新加载当前关卡&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1850" y="530" width="160" height="80" as="geometry" />
+          <mxGeometry x="2240" y="520" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
