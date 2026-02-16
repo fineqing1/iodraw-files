@@ -436,7 +436,7 @@
         <mxCell id="AnVIsK84eVW_1UlCv3e7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AnVIsK84eVW_1UlCv3e7-9" target="AnVIsK84eVW_1UlCv3e7-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AnVIsK84eVW_1UlCv3e7-9" value="玩家HP-=Damage" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AnVIsK84eVW_1UlCv3e7-9" value="CurrentYarnBallList出列" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2040" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-10" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
