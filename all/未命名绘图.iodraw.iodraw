@@ -467,8 +467,8 @@
         <mxCell id="AnVIsK84eVW_1UlCv3e7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AnVIsK84eVW_1UlCv3e7-18" target="AnVIsK84eVW_1UlCv3e7-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AnVIsK84eVW_1UlCv3e7-18" value="敌人死亡事件" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1250" y="170" width="160" height="80" as="geometry" />
+        <mxCell id="AnVIsK84eVW_1UlCv3e7-18" value="毛线球移动" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2440" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AnVIsK84eVW_1UlCv3e7-23" target="AnVIsK84eVW_1UlCv3e7-24">
           <mxGeometry relative="1" as="geometry" />
@@ -487,13 +487,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-23" value="存活敌人数量==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1250" y="290" width="160" height="80" as="geometry" />
+          <mxGeometry x="2440" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-24" value="胜利&lt;div&gt;加载下一关&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1251" y="410" width="160" height="80" as="geometry" />
+          <mxGeometry x="2441" y="400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-25" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1450" y="290" width="160" height="80" as="geometry" />
+          <mxGeometry x="2640" y="280" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
