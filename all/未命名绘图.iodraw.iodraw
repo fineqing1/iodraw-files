@@ -489,7 +489,7 @@
         <mxCell id="AnVIsK84eVW_1UlCv3e7-23" value="毛线球Position&lt;div&gt;==&lt;/div&gt;&lt;div&gt;目标点Position&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2440" y="280" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AnVIsK84eVW_1UlCv3e7-24" value="胜利&lt;div&gt;加载下一关&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AnVIsK84eVW_1UlCv3e7-24" value="失败&lt;div&gt;重新加载当前关卡&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2441" y="400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-25" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
