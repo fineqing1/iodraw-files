@@ -458,7 +458,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AnVIsK84eVW_1UlCv3e7-15" value="存活敌人数量==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AnVIsK84eVW_1UlCv3e7-15" value="毛线球进洞" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2040" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnVIsK84eVW_1UlCv3e7-16" value="失败&lt;div&gt;重新加载当前关卡&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
