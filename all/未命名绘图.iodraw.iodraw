@@ -538,6 +538,37 @@
         <mxCell id="-0kovfmda6RNJKFtF-W7-12" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3040" y="280" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-0kovfmda6RNJKFtF-W7-14" target="-0kovfmda6RNJKFtF-W7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-14" value="玩家移动" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2840" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-0kovfmda6RNJKFtF-W7-19" target="-0kovfmda6RNJKFtF-W7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-16" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-0kovfmda6RNJKFtF-W7-15">
+          <mxGeometry x="-0.1345" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-0kovfmda6RNJKFtF-W7-19" target="-0kovfmda6RNJKFtF-W7-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-18" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-0kovfmda6RNJKFtF-W7-17">
+          <mxGeometry x="-0.2753" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-19" value="玩家位于目标点&lt;div&gt;Position==目标点.Posiotn&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2840" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-20" value="胜利&lt;div&gt;加载下一关&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2840" y="760" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-21" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3040" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
