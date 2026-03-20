@@ -541,7 +541,7 @@
         <mxCell id="-0kovfmda6RNJKFtF-W7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-0kovfmda6RNJKFtF-W7-14" target="-0kovfmda6RNJKFtF-W7-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-0kovfmda6RNJKFtF-W7-14" value="玩家移动" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-0kovfmda6RNJKFtF-W7-14" value="角色减员" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2840" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-0kovfmda6RNJKFtF-W7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-0kovfmda6RNJKFtF-W7-19" target="-0kovfmda6RNJKFtF-W7-20">
