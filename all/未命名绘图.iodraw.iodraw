@@ -560,7 +560,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-0kovfmda6RNJKFtF-W7-19" value="玩家位于目标点&lt;div&gt;Position==目标点.Posiotn&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-0kovfmda6RNJKFtF-W7-19" value="List&amp;lt;character&amp;gt;.count==0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2840" y="640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-0kovfmda6RNJKFtF-W7-20" value="胜利&lt;div&gt;加载下一关&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
