@@ -496,16 +496,16 @@
           <mxGeometry x="2640" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-0kovfmda6RNJKFtF-W7-0" value="判断" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1450" y="50" width="160" height="80" as="geometry" />
+          <mxGeometry x="2640" y="40" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-0kovfmda6RNJKFtF-W7-1" value="开始/结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1250" y="50" width="160" height="80" as="geometry" />
+          <mxGeometry x="2440" y="40" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-0kovfmda6RNJKFtF-W7-2" value="过程" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1650" y="50" width="160" height="80" as="geometry" />
+          <mxGeometry x="2840" y="40" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-0kovfmda6RNJKFtF-W7-3" value="数据变更" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1850" y="50" width="160" height="80" as="geometry" />
+          <mxGeometry x="3040" y="40" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
