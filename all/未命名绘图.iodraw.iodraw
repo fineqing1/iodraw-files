@@ -507,6 +507,37 @@
         <mxCell id="-0kovfmda6RNJKFtF-W7-3" value="数据变更" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3040" y="40" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-0kovfmda6RNJKFtF-W7-5" target="-0kovfmda6RNJKFtF-W7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-5" value="玩家移动" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="170" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-0kovfmda6RNJKFtF-W7-10" target="-0kovfmda6RNJKFtF-W7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-7" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-0kovfmda6RNJKFtF-W7-6">
+          <mxGeometry x="-0.1345" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-0kovfmda6RNJKFtF-W7-10" target="-0kovfmda6RNJKFtF-W7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-9" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-0kovfmda6RNJKFtF-W7-8">
+          <mxGeometry x="-0.2753" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-10" value="玩家位于水格子" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="290" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-11" value="死亡 游戏重新开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="410" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-0kovfmda6RNJKFtF-W7-12" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="290" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
