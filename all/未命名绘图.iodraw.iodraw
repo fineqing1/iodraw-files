@@ -578,6 +578,9 @@
         <mxCell id="DGSQfwNPKWpzkmElpwUS-2" value="所有玩家放置机关" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2440" y="880" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-3" value="判断" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2440" y="1000" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
