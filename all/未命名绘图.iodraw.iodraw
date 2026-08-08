@@ -593,6 +593,10 @@
         <mxCell id="DGSQfwNPKWpzkmElpwUS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2400" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2360" y="1040" />
+              <mxPoint x="2360" y="920" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DGSQfwNPKWpzkmElpwUS-3" value="所有玩家都放置了机关" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
