@@ -626,7 +626,11 @@
         </mxCell>
         <mxCell id="DGSQfwNPKWpzkmElpwUS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2320" y="1280" as="targetPoint" />
+            <mxPoint x="2320" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2280" y="1280" />
+              <mxPoint x="2280" y="680" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DGSQfwNPKWpzkmElpwUS-20" value="回合结算" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
