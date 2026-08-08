@@ -612,6 +612,9 @@
         <mxCell id="DGSQfwNPKWpzkmElpwUS-3" value="所有玩家都放置了机关" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2440" y="1000" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-8" target="DGSQfwNPKWpzkmElpwUS-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DGSQfwNPKWpzkmElpwUS-8" value="所有玩家闯关" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2440" y="1120" width="160" height="80" as="geometry" />
         </mxCell>
@@ -621,8 +624,8 @@
         <mxCell id="DGSQfwNPKWpzkmElpwUS-9" value="关卡实时预览" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2640" y="880" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-20" value="过程" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2850" y="50" width="160" height="80" as="geometry" />
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-20" value="回合结算" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2440" y="1240" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
