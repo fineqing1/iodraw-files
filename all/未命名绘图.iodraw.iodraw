@@ -624,16 +624,16 @@
         <mxCell id="DGSQfwNPKWpzkmElpwUS-9" value="关卡实时预览" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2640" y="880" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-20">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-20" target="DGSQfwNPKWpzkmElpwUS-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2320" y="680" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2280" y="1280" />
-              <mxPoint x="2280" y="680" />
+              <mxPoint x="2320" y="1280" />
+              <mxPoint x="2320" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-20" value="回合结算" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-20" value="回合结算&lt;div&gt;进入下一轮&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2440" y="1240" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
