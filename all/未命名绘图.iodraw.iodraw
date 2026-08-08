@@ -569,8 +569,11 @@
         <mxCell id="-0kovfmda6RNJKFtF-W7-21" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3040" y="640" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-0" value="开始/结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-0" value="回合开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2440" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-1" value="过程" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2850" y="50" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
