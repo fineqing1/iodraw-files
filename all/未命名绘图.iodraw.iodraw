@@ -569,33 +569,33 @@
         <mxCell id="-0kovfmda6RNJKFtF-W7-21" value="Null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3040" y="640" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-0" target="DGSQfwNPKWpzkmElpwUS-1">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-0" target="DGSQfwNPKWpzkmElpwUS-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-0" value="回合开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-0" value="回合开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2440" y="640" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-1" target="DGSQfwNPKWpzkmElpwUS-2">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-1" target="DGSQfwNPKWpzkmElpwUS-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-1" value="所有玩家公开选取机关" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-1" value="所有玩家公开选取机关" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2440" y="760" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-2" target="DGSQfwNPKWpzkmElpwUS-3">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-2" target="DGSQfwNPKWpzkmElpwUS-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-2" value="所有玩家放置机关" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-2" value="所有玩家放置机关" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2440" y="880" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-3" target="DGSQfwNPKWpzkmElpwUS-8">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-3" target="DGSQfwNPKWpzkmElpwUS-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-19" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DGSQfwNPKWpzkmElpwUS-15">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-19" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DGSQfwNPKWpzkmElpwUS-15" vertex="1" connectable="0">
           <mxGeometry x="-0.3045" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-3" target="DGSQfwNPKWpzkmElpwUS-2">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-3" target="DGSQfwNPKWpzkmElpwUS-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2400" y="920" as="targetPoint" />
             <Array as="points">
@@ -604,27 +604,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-18" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DGSQfwNPKWpzkmElpwUS-16">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-18" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DGSQfwNPKWpzkmElpwUS-16" vertex="1" connectable="0">
           <mxGeometry x="0.0067" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-3" value="所有玩家都放置了机关" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-3" value="所有玩家都放置了机关" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2440" y="1000" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-8" target="DGSQfwNPKWpzkmElpwUS-20">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-8" target="DGSQfwNPKWpzkmElpwUS-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-8" value="所有玩家闯关" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-8" value="所有玩家闯关" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2440" y="1120" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-9" target="DGSQfwNPKWpzkmElpwUS-2">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-9" target="DGSQfwNPKWpzkmElpwUS-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-9" value="关卡实时预览" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-9" value="关卡实时预览" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2640" y="880" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-20" target="DGSQfwNPKWpzkmElpwUS-0">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DGSQfwNPKWpzkmElpwUS-20" target="DGSQfwNPKWpzkmElpwUS-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2320" y="680" as="targetPoint" />
             <Array as="points">
@@ -633,7 +633,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DGSQfwNPKWpzkmElpwUS-20" value="回合结算&lt;div&gt;进入下一轮&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DGSQfwNPKWpzkmElpwUS-20" value="回合结算&lt;div&gt;进入下一轮&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2440" y="1240" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
